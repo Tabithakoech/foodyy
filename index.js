@@ -64,9 +64,7 @@ fetch(url)
                 input2.style.color = "#ff0000";
             })
             //DOMContentLoaded
-        document.addEventListener("DOMContentLoaded", () => {
-                html()
-            })
+        
             //Review form
         const mealReviews = document.getElementById('review-points');
         //Event Listener:Submit
